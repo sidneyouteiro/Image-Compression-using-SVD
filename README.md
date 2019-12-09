@@ -26,6 +26,6 @@ To calculate the percentage of space that we will use after compression just use
 ## [Examples](/README.md#Examples)
 ![escadaria-rio](/teste.jpg)
 
-After compression using 1 singular value
+After compression using 100 singular values
 
 ![compressao](/compressed.jpg)
